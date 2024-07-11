@@ -1,0 +1,31 @@
+
+.topContainer{
+position: relative;
+top: 120px;
+left: 520px;
+margin-top: -780px;
+
+}
+.topContainer h2{
+    margin-left: 120px;
+    font-size: 35px;
+}
+.postsContaienr{
+    display: block;
+    margin-top: -20px;
+   border-radius: 20px;
+   list-style: none;
+   height: 320px;
+   width: 320px;
+}
+.elements{
+    margin-left: 590px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    height: 350px;
+    width: 450px;
+    margin-top: 190px;
+  
+    background-color: rgb(165, 162, 162);
+}
+   
